@@ -56,5 +56,10 @@ This dashboard is a sample project created for demonstration and educational pur
 
 ---
 
+# Screenshort
+
+![Dashboard Screenshot](https://github.com/divyanshu512-gif/Motorola-Dashboard/blob/main/Snapshort%20of%20motorola%20dashboard.png?raw=true)
+
+
 
 
